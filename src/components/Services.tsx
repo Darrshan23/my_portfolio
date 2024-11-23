@@ -1,4 +1,3 @@
-import React from 'react';
 import { Palette, Code, Shield, Laptop } from 'lucide-react';
 
 const Services = () => {
